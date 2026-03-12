@@ -1,0 +1,22 @@
+.table-container {
+  border: 2px solid #00e7ff;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.table-header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #092e33;
+  padding: 10px;
+}
+
+.values {
+  display: flex;
+  gap: 20px;
+}
+
+.crypto-list {
+  list-style-type: none;
+  padding: 0;
+}
